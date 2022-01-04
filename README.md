@@ -2,7 +2,7 @@
 
 - 🖥️🖱️ I'm currently work as a systems analyst and develop in ADVPL language
 - 💻📖 I'm studying advpl a little bit more and started learning JavaScript too. I'm in my second year at university, studying Computer Engineering.
-- 💡📓 i love science fiction and everything related to the geek world. I love playing video games and learning about the world of programming. If you want to talk about        -         conspiracy theories and everything related to the universe, I'm the right person 😂. An Artificial Intelligence Appreciator 👾🤖.
+- 💡📓 i love science fiction and everything related to the geek world. I love playing video games and learning about the world of programming. If you want to talk about                 conspiracy theories and everything related to the universe, I'm the right person 😂. An Artificial Intelligence Appreciator 👾🤖.
 
 <div align="center">
   <a href="https://github.com/LucaSantanaofc">
